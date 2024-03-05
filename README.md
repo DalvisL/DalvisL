@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **pytorch, three.js, advanced python**
+- 🌱 I’m currently learning **pytorch, R3F, advanced python**
 
 - 🤝 I’m looking for help with **python, pytorch**
 
